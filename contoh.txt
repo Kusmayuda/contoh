@@ -1,2 +1,3 @@
 contoh aja
-contoh lagi oii
+tambah 3 hapus 2
+ini 3
